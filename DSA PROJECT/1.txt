@@ -1,0 +1,79 @@
+Programmed learning
+Programmed learning (or 'programmed instruction') is a research-based system which helps learners work successfully. The method is guided by research done by a variety of applied psychologists and educators.[1]
+
+The learning material is in a kind of textbook or teaching machine or computer. The medium presents the material in a logical and tested sequence. The text is in small steps or larger chunks. After each step, learners are given a question to test their comprehension. Then immediately the correct answer is shown. This means the learner at all stages makes responses, and is given immediate knowledge of results.[2][3]
+
+It is rather interesting that Edward L. Thorndike wrote in 1912: "If, by a miracle of mechanical ingenuity, a book could be so arranged that only to him who had done what was directed on page one would page two become visible, and so on, much that now requires personal instruction could be managed by print".[4][5]
+
+Thorndike, however, did nothing with his idea. The first such system was devised by Sidney L. Pressey in 1926.[6][7] "The first.. [teaching machine] was developed by Sidney L. Pressey... While originally developed as a self-scoring machine... [it] demonstrated its ability to actually teach".[8]
+Later developments
+
+In World War II, with largely conscript armies, there was great emphasis on training. What was learnt influenced education and training after the war. One of the main methods was the use of film as a group training method. Research on the effectiveness of training films was done extensively.[9][10][11][12] In one account, Lumsdaine comments that research on films went on "from about 1918 to the present" (meaning 1962).[13]
+
+A few conclusions stood out from the research. One was that films were great at giving overviews of a situation or an operation. However, they were less successful at getting over the details. Some general features of film (and, later, television) stand out. One is that a film goes at its own pace. Another is that no specific responses or activities are required from the viewer. A third is that the audience is varied, sometimes hugely varied. This gives clues to ways of improving instructional films.
+
+In a 1946 experiment at Yale University, questions for students were put between segments of a film on the heart and circulation, with correct answers given after students had responded (knowledge of results). This added significantly to the amount learnt from the film. Lumsdaine commented that even showing the basic film twice was not so effective as showing the version with questions and answers.[13]612[14]
+
+The connections between this experiment and those of Pressey were obvious. Active responses by learners and helpful feedback on the activities were now seen as critical elements in any successful system of learning. Pressey's work had been half forgotten, but it was now recognised as significant.[15]
+Programmed learning arrives
+What is programmed learning?
+
+If so much research had already been done on learning from films, what exactly did programmed learning add? The short answer is "stimulus control", by which is broadly meant the teaching material itself. Also, in programmed learning, a complete system was proposed which included these stages: [16][17]
+
+    The aims of the course are stated in terms which are objective, and can be measured.
+    A pre-test is given, or the initial behaviour is stated.
+    A post-test is provided.
+    The materials have been tried out and revised according to results (developmental testing).
+    The materials are constructed according to a predetermined scheme (stimulus control).
+    The material is arranged in appropriate steps.
+    The learner has to respond actively (not necessarily overtly).
+    Arrangements are made for responses to be confirmed (knowledge of results).
+    The teaching medium is appropriate for the subject-matter and the students.
+    The materials are self-paced or presented in a manner which suits the learner.
+
+A helpful discussion of the different programming techniques was given by Klaus.[18]
+The two main systems
+
+Although there were three or four other systems proposed, we discuss here the two best-known methods.
+
+One was by Norman Crowder, a psychologist with the U.S. Air Force. He had been asked to investigate the training of aircraft maintenance men.[19] Crowder's system was to set multiple choice questions in the text, and provide feedback for each of the alternatives.[20][21] Examples of this method show that the alternatives offered in questions were chosen to cover mistakes which students were likely to make.[3][19]
+
+Much better known was the other style of programmed learning, as proposed by the behaviourist B.F. Skinner. Skinner made some very effective criticisms of traditional teaching methods.[22] His scheme of programmed instruction was to present the material as part of a "schedule of reinforcement" in typical behaviourist manner. The programmed text of Skinner's theory of behaviorism is the most complete example of his ideas in action.[23] Skinner was a wonderful publicist for his own ideas, as can be seen from this passage:
+
+    "There is a simple job to be done. The task can be stated in concrete terms. The necessary techniques are known. The equipment can easily be provided. Nothing stands in the way except cultural inertia... We are on the threshold of an exciting and revolutionary period in which the scientific study of man will be put to work in man's best interests. Education must play its part. It must accept the fact that sweeping revision of educational practice is possible and inevitable...".[24]
+
+Both methods were originally presented in machines, and both were later presented in book form. Both systems were to an extent student centered. They were ways of teaching individual learners who worked at their own pace. Both systems (in different ways) used knowledge of results to promote learning.[1]p619[25] In both systems the content was pre-tested to identify problems and iron them out. Both systems emphasised clear learning objectives. Progress in learning was measured by pre- and post-tests of equivalent difficulty. Many practical tests showed the effectiveness of these methods.[26]
+
+Many of these ideas were picked up and used in other educational fields, such as open learning (see the Open University) and computer-assisted learning.[27][28]
+References
+
+    1 2 Lumsdaine A.A. 1963. Instruments and media of instruction. In N.L. Gage (ed) Handbook of research on teaching. Chicago: AERA and Rand McNally, 583–682.
+    ? Margulies S. & Eigen L.D. 1961. Applied programmed instruction. New York: Wiley.
+    1 2 Markle S.M. 1969. Good frames and bad: a grammar of frame writing. 2nd ed, New York: Wiley, Chapters 1 & 4.
+    ? Thorndike E.L. 1912. Education: a first book. New York: Macmillan, 165.
+    ? McNeil S. A hypertext history of instructional design.
+    ? Pressey S.L. 1926. A simple apparatus which gives tests and scores – and teaches. School & Society 23, 373–6.
+    ? Pressey, S.L. 1927. A machine for automatic teaching of drill material. School & Society 25, 544–552.
+    ? Hilgard E.R. 1966. Learning & the technology of instruction. Chapter 16 in Hilgard E.R. & Bower G.H. 1966. Theories of learning. 3rd ed, New York: Appleton-Century-Crofts, p554–561 Programmed learning.
+    ? Lumsdaine A.A. 1947. Experimental research and the improvement of teaching films. Educational Screen 26, 254/5.
+    ? Hovland C.I; Lumsdaine A.A. & Sheffield F.D. 1949. Experiments on mass communication. Princeton University Press.
+    ? Lumsdaine A.A. 1953. Audio-visual research in the U.S. Air Force. AV Communication Review 1, 76–90.
+    ? May M.A. & Lumsdaine A.A. 1958. Learning from films. Yale University Press.
+    1 2 Lumsdaine A.A. 1962, published 1965. Experimental research on instructional devices and materials. In Glaser R. (ed) Training research and education. New York: Wiley, 252; 256.
+    ? Lumsdaine A.A; May M.A. & Hadsell R.S. 1958. Questions spliced into a film for motivational and pupil participation. In May M.A. & Lumsdaine A.A. Learning from films. Yale University Press, 72–83.
+    ? Pressey's work is reprinted in Lumsdaine A.A & Glaser R. (eds) 1960. Teaching machines and programed learning I: a source book. Washington D.C. National Education Association of the United States.
+    ? Adjusted from Unwin D. 1967. The changing concept of programmed material criteria for categorisation. In Tobin M.J. (ed) Problems and methods in programmed learning I. National Centre for Programmed Learning, Birmingham.
+    ? Leith G.O.M. 1966. Survey of programmed learning. Visual Education Year Book. NCAVAE.
+    ? Klaus D.J. 1965. An analysis of programming techniues. In Glaser R. (ed) 1965. Teaching machines and programmed learning II. Washington D.C. Department of Audiovisual Instruction, National Education Association of the United States.
+    1 2 Rowntree D. 1966. Basically branching. London: Macdonald, p5 & examples in text.
+    ? Crowder N. [1954]. Intrinsic programming. U.S. Industries.
+    ? Crowder N. 1959. Automatic tutoring by means of intrinsic programming. In Galanter E.H. (ed) Automatic teaching: the state of the art. New York: Wiley, 109–116.
+    ? Skinner B.F. 1965. The technology of teaching. Appleton-Century-Croft. Includes reprints of his papers on programmed learning.
+    ? Holland J.G. & Skinner B.F. 1961. The analysis of behavior. New York: McGraw-Hill.
+    ? Skinner B.F. 1954. The science of learning and the art of teaching. Harvard Educational Review 24, 86.
+    ? Annett J. 1964. The role of knowledge of results in learning: a survey. In Educational Technology, De Cecco (ed), Holt, Rinehart & Winston, 279–285.
+    ? Glaser R. (ed) 1965. Teaching machines and programed learning II: data and directions. Washington D.C. National Education Association of the United States.
+    ? Pritchard, Alan 2009. Ways of learning: learning theories and learning styles in the classroom. London: Taylor & Francis, 2nd ed. ISBN 978-0-415-46608-0
+    ? Rowntree D. 1990. Teaching through self-instruction: how to develop open learning material. London: Kogan Page, 2nd ed. ISBN 1-85091-957-7; USA: ISBN 0-89397-356-4
+
+This article is issued from Wikipedia - version of the Wednesday, September 02, 2015. The text is available under the Creative Commons Attribution/Share Alike but additional terms may apply for the media files.
